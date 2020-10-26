@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+My name is Lucas Ribeiro from Brazil and welcome to my GitHub.
+
 <!--
-**lucasmribeiro007/lucasmribeiro007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lucasmribeiro/lucasmribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ribeiro-06110145/)](https://www.linkedin.com/in/lucas-ribeiro-06110145/)
