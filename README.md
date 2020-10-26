@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Lucas Ribeiro from Brazil and welcome to my GitHub.
+I'm currently intern in research and development at LIS 
 
 <!--
 **lucasmribeiro/lucasmribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
